@@ -5,6 +5,6 @@ metadata:
 spec:
   containers:
     - name: todo-app
-      image: crazywebdev/todo-app-argocd:83858d3a7949772635ca7c97b47e01d3bc45d12e
+      image: crazywebdev/todo-app-argocd: c302a2553d95ae49463678b0a17e802020770342
       ports:
       - containerPort: 80
